@@ -1,0 +1,52 @@
+---
+title: "Activity: Popular Names"
+author: "Put your name here"
+date: "Put the due date here"
+output: html_notebook
+---
+
+
+
+# Set Up
+
+```{r}
+# load necessary packages
+library(tidyverse)
+library(mosaic)
+library(dcData)
+```
+
+
+```{r}
+# Load the BabyNames data into RStudio environment (from dcData package)
+data("BabyNames")
+
+```
+
+# Activity
+
+**Goal**: By the end of the activity, each team will create a graph showing ups and downs in the popularity of four names according to the U.S. social security administration  
+
+
+### Step 1
+
+
+
+### Step 3
+
+
+
+### Step 4
+
+
+
+### Step 5
+
+
+
+### Step 7: modify the starter code given in the book to produce your own R code..
+
+
+
+
+
